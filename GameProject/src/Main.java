@@ -29,12 +29,12 @@ public class Main {
 
 		Game game1 = new Game();
 		game1.setId(1);
-		game1.setGameName("Grand Theft Auto: San Andreas");
+		game1.setGameName("PES 2021");
 		game1.setPrice(200);
 
 		Game game2 = new Game();
 		game2.setId(2);
-		game2.setGameName("Grand Theft Auto: Vice City");
+		game2.setGameName("FM 2021");
 		game2.setPrice(300);
 
 		GameManager gameManager = new GameManager();
